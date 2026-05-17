@@ -96,7 +96,7 @@ LocalEpubBatReader/
 ├── images/                          # 方案封面与截图资源
 │   ├── banner.jpg                   # 方案头部海报
 │   └── screenshot.png               # 脚本运行截图
-├── LocalEpubBatReader.bat           # 批处理逻辑脚本
+├── LocalEpubBatReader.bat           # 批处理演进脚本
 ├── README.md                        # 方案说明文档
 ├── LICENSE                          # MIT 开源协议
 └── reading.html                     # 阅读入口页面
