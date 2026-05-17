@@ -1,14 +1,29 @@
 # 临时文件
 *.tmp
 *.log
+*.temp
+*.cache
+
+# 系统垃圾文件
 Thumbs.db
 .DS_Store
+Desktop.ini
 
-# 系统文件
+# 系统目录
 System Volume Information/
 Recycler/
 $RECYCLE.BIN/
 
-# 编辑器
+# 编辑器 / IDE 配置
 .idea/
 .vscode/
+*.swp
+*.swo
+
+# 项目生成文件
+book.zip
+*.epub
+out/
+temp/
+__pycache__/
+*.pyc
