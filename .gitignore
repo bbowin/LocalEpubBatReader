@@ -1,0 +1,14 @@
+# 临时文件
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+
+# 系统文件
+System Volume Information/
+Recycler/
+$RECYCLE.BIN/
+
+# 编辑器
+.idea/
+.vscode/
