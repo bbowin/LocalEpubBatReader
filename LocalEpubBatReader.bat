@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 setlocal enabledelayedexpansion
-title 📚 LocalEpubBatReader - 【 EPUB转HTML + TXT直接挂载 】 - 让浏览器成为您的阅读终端……
+title 📚 LocalEpubBatReader - EPUB转HTML / TXT直接挂载 - 浏览器原生离线阅读终端
 color 0A
 cd /d "%~dp0"
 
