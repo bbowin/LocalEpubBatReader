@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="images/banner.jpg" alt="LocalEpubBatReader Banner" width="750">
+  <img src="images/banner.jpg" alt="LocalEpubBatReader Banner" width="1000">
+
 
   <!-- GitHub 徽章标记 -->
   <div>
