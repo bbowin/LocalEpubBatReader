@@ -144,6 +144,15 @@ LocalEpubBatReader/
 
 - 🔹 Q: 脚本会修改我的原书文件吗？
   🔹 A: 不会，仅做解包、索引、生成 HTML，不改动原文件。
+  
+- 🔹 Q: 原生阅读体验？
+  🔹 A:  用3张模拟截图，简单展示一下更普遍、更舒适的原生阅读体验。
+
+  <img src="D:\演示案列\LocalEpubBatReader\images\SumatraPDF与DocBox对toc_xhtml等渲染对比.png" style="zoom:60%;" />
+
+  <img src="D:\演示案列\LocalEpubBatReader\images\金山PDF与Calibre渲染正常.png" style="zoom:60%;" />
+
+  ![](D:\演示案列\LocalEpubBatReader\images\LocalEpubBatReader渲染toc_xhtml.png)
 
 ## 🎯 设计目标
 - 🔹 打造本地私有化、全离线闭环个人书库
