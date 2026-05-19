@@ -148,11 +148,13 @@ LocalEpubBatReader/
 - 🔹 Q: 原生阅读体验？
   🔹 A:  用3张模拟截图，简单展示一下更普遍、更舒适的原生阅读体验。
 
-  <img src="D:\演示案列\LocalEpubBatReader\images\SumatraPDF与DocBox对toc_xhtml等渲染对比.png" style="zoom:60%;" />
+  ![SumatraPDF与DocBox对toc_xhtml等渲染对比](images/SumatraPDF与DocBox对toc_xhtml等渲染对比.png)
 
-  <img src="D:\演示案列\LocalEpubBatReader\images\金山PDF与Calibre渲染正常.png" style="zoom:60%;" />
+  ![金山PDF与Calibre渲染正常](images/金山PDF与Calibre渲染正常.png)
 
-  ![](D:\演示案列\LocalEpubBatReader\images\LocalEpubBatReader渲染toc_xhtml.png)
+  ![LocalEpubBatReader渲染toc_xhtml](images/LocalEpubBatReader渲染toc_xhtml.png)
+  
+  
 
 ## 🎯 设计目标
 - 🔹 打造本地私有化、全离线闭环个人书库
