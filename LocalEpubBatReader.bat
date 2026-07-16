@@ -84,7 +84,7 @@ echo.
 echo ======================================================================
 echo ✅ 全部成功
 echo 🔗 本机访问：http://localhost:%PORT%/%INDEX%
-echo 🌐 局域网访问：http://%LAN_IP%:%PORT%/%INDEX%"
+echo 🌐 局域网访问：http://%LAN_IP%:%PORT%/%INDEX%
 echo ⛔ 停止服务：Ctrl + C
 echo ======================================================================
 echo.
