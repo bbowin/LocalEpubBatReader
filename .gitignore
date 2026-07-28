@@ -9,7 +9,7 @@ Thumbs.db
 .DS_Store
 Desktop.ini
 
-# 系统目录
+# 系统磁盘目录（本地仓库几乎不会出现，保留作通用模板）
 System Volume Information/
 Recycler/
 $RECYCLE.BIN/
@@ -20,7 +20,7 @@ $RECYCLE.BIN/
 *.swp
 *.swo
 
-# 项目生成文件
+# 项目导出/生成文件
 book.zip
 *.epub
 out/
