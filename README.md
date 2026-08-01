@@ -11,23 +11,25 @@
     <img src="https://img.shields.io/badge/Windows-10%2F11-blue?style=flat-square" alt="Windows Support">
     <img src="https://img.shields.io/badge/Version-1.61-purple?style=flat-square" alt="Version">
     <img src="https://img.shields.io/badge/Language-Batch-green?style=flat-square" alt="Language">
-    <img src="https://img.shields.io/badge/Offline-私有离线-darkgreen?style=flat-square" alt="Offline">
+    <img src="https://img.shields.io/badge/Offline-Private-darkgreen?style=flat-square" alt="Offline">
   </div>
 </div>
 
 <div align="center">
 <br>
 
-### 匠心凝点滴 屏间阅自由
-#### Devotion in details, freedom in reading.
-
-<br>
-</div>
-
-<div align="center">
+*Devotion in details, freedom in reading.*
 
 # LocalEpubBatReader
-## Windows EPUB 一键转HTML｜Edge原生无损渲染｜离线私有书库｜局域网多设备共享
+**Windows Offline EPUB Batch Converter & Private E-book Library**
+> Lightweight Batch script based offline library solution.
+> Convert EPUB to HTML losslessly, support native browser rendering, local offline storage and LAN multi-device sharing.
+> Fully non-commercial open source, no cloud upload, all data stays locally.
+
+<br>
+
+## 匠心凝点滴 屏间阅自由
+### Windows EPUB 一键转HTML｜Edge原生无损渲染｜离线私有书库｜局域网多设备共享
 **基于 BAT 轻量化脚本，离线自建纯净私有阅读书库，无需阅读器、不上云端，Windows 也能流畅运行。**
 
 </div>
@@ -144,7 +146,7 @@ LocalEpubBatReader/
 
 - 🔹 Q: 脚本会修改我的原书文件吗？
   🔹 A: 不会，仅做解包、索引、生成 HTML，不改动原文件。
-  
+
 - 🔹 Q: 原生阅读体验？
   🔹 A:  用3张模拟截图，简单展示一下更普遍、更舒适的原生阅读体验。
 
@@ -153,8 +155,8 @@ LocalEpubBatReader/
   ![金山PDF与Calibre渲染正常](images/金山PDF与Calibre渲染正常.png)
 
   ![LocalEpubBatReader渲染toc_xhtml](images/LocalEpubBatReader渲染toc_xhtml.png)
-  
-  
+
+
 
 ## 🎯 设计目标
 - 🔹 打造本地私有化、全离线闭环个人书库
