@@ -54,6 +54,7 @@ echo a{color:#0066cc;text-decoration:none;font-size:16px;}
 echo ^</style^>
 echo ^</head^>
 echo ^<body^>
+:: 页面主标题
 echo ^<h1^>📚 LocalEpubBatReader - 本地电子书库^</h1^>
 ) > "%INDEX%"
 
