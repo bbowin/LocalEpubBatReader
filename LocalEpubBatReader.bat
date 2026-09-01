@@ -20,7 +20,7 @@ for /f "tokens=4 delims=: " %%a in ('netsh interface ip show addresses "以太�
 
 cls
 echo ================================================================================
-echo                LocalEpubBatReader - 本地EPUB转HTML浏览器阅读工具
+echo                LocalEpubBatReader - 本地EPUB转HTML浏览器原阅读工具
 echo.
 echo                          匠心凝点滴  屏间阅自由
 echo.
